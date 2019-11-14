@@ -1,4 +1,4 @@
-#comp560-TicTacToe
+**comp560-TicTacToe**
 To run this program...
 1) Open the terminal and navigate to the project foler
 2) Run: $sh
